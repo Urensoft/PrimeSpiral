@@ -1,7 +1,3 @@
 # PrimeSpiral
 
-This should only appear in the Experimental branch
-
-this has been added to the master, hopefully this will have a total of 3 lines on merge
-
-This is the latest experiment line
+Javascript for drawing a spiral of incrementing circles highlighting in green the radii which are prime
